@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Pytest cache
+.pytest_cache/
+
+# PyCharm
+.idea/
+
+# Environment secrets
+.env
+.env.*
+
+# Allow environment template
+!.env.example
+
+# macOS
+.DS_Store
+
+# Test reports
+htmlcov/
+.coverage
