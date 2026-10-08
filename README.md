@@ -36,8 +36,8 @@ https://cloud-api.yandex.net/v1/disk
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/USERNAME/yandex-disk-api-tests.git
-cd yandex-disk-api-tests
+git clone https://github.com/rgmarina/yandex_disk_api_tests.git
+cd yandex_disk_api_tests
 ```
 
 Замените `USERNAME` на имя владельца GitHub-репозитория.
