@@ -40,8 +40,6 @@ git clone https://github.com/rgmarina/yandex_disk_api_tests.git
 cd yandex_disk_api_tests
 ```
 
-Замените `USERNAME` на имя владельца GitHub-репозитория.
-
 ### 2. Создание виртуального окружения
 
 Для macOS:
